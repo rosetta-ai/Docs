@@ -1,0 +1,16 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rosetta-ai/Docs.git",
+  "author": "Lucien Lee <lkiral7903@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
+  },
+  "devDependencies": {
+    "docz": "^1.2.0",
+    "docz-theme-default": "^1.2.0"
+  }
+}
